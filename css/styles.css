@@ -37,8 +37,20 @@ body{
     font-size: 40px;
 }
 
-.contendor{
+.contenedor{
     display: flex;
+    background-color: orange;
+    padding: 25px;
+}
+
+.uno1{
+    background-color: green;
+    padding: 25px;
+}
+
+.dos2{
+    background-color: yellow;
+    padding: 25px;
 }
 
 .forma1{
