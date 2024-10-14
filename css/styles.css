@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.uno{
+    background-color: lightsalmon; 
+    margin: 20px;
+    height: 150px;
+    width: 45%;
+    border: 20px solid orange;
+    display: inline-block;
+    font-size: 40px;
+    
+}
+
+.dos{
+    background-color: lightblue;
+    margin: 20px;
+    height: 150px;
+    width: 45%;
+    display: inline-block;
+    font-size: 40px;
+}
+
+.tres{
+    background-color: lightgreen;
+    margin: 10px;   
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    font-size: 40px;
+}
+
+.contendor{
+    display: flex;
+}
+
+.forma1{
+    background-color: red;
+    width: 100vw;
+    height: 70vh;
+    padding: 150px 50px 75px 10px;
+    font-size: 1rem;
+    color: white
+}
+
+.forma2{
+    background-color: blueviolet;
+    width: 50%;
+    height: 250px;
+    border: 15px solid rgb(39, 39, 39) ;
+    font-size: 23px;
+    color: white;
+    margin: 20px 20px;
+}
+
+.span1{
+    background-color: yellow;
+    color: black;
+    font-size: 3rem;
+    padding: 25px;
+    border: 10px solid orange;
+}
+
+.span2{
+    background-color: rgb(86, 126, 55);
+    color: white;
+    font-size: 3rem;
+}
